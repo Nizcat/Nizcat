@@ -4,7 +4,8 @@
 <p align="center">
 I'm Niza, a self-motivated tech enthusiast and front end developer.
 </p>
-<a href="https://drive.google.com/file/d/1e0z-B_biKc1KIOg9byaSza4NSSEyEkUM/view?usp=sharing"></a>
+<img src="https://drive.google.com/file/d/1e0z-B_biKc1KIOg9byaSza4NSSEyEkUM/view?usp=sharing" alt="photo Tech Skills"/>
+
 
 <!--<h4 align="center">
 💻 full stack developer <a href="https://github.com/machnetinc">@Machnet</a> | 🌱 building <a href="https://github.com/akasrai/daily-quiz-mobile">Daily Quiz</a> | 💬 connect <a href="https://twitter.com/akasrai_">@akasrai_</a>
@@ -19,7 +20,7 @@ My Tech Stacks
 </h3>
 
 <h3 align="center">
-<img src="https://raw.githubusercontent.com/akasrai/akasrai/master/assets/stack-hills.png" alt="stacks"/>
+
 </h3>
 <!--
 **Nizcat/Nizcat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
