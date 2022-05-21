@@ -4,6 +4,7 @@
 <p align="center">
 I'm Niza, a self-motivated tech enthusiast and front end developer.
 </p>
+<a href="https://drive.google.com/file/d/1e0z-B_biKc1KIOg9byaSza4NSSEyEkUM/view?usp=sharing"></a>
 
 <!--<h4 align="center">
 💻 full stack developer <a href="https://github.com/machnetinc">@Machnet</a> | 🌱 building <a href="https://github.com/akasrai/daily-quiz-mobile">Daily Quiz</a> | 💬 connect <a href="https://twitter.com/akasrai_">@akasrai_</a>
