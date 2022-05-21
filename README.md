@@ -4,7 +4,7 @@
 <p align="center">
 I'm Niza, a self-motivated tech enthusiast and front end developer.
 </p>
-<img src="https://drive.google.com/file/d/1e0z-B_biKc1KIOg9byaSza4NSSEyEkUM/view?usp=sharing" alt="photo Tech Skills"/>
+<img src="https://github.com/Nizcat/Nizcat/blob/main/TechSkillsNizcat.jpg" alt="photo Tech Skills"/>
 
 
 <!--<h4 align="center">
